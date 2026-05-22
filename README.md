@@ -24,8 +24,6 @@ financial-data-analysis-python/
 │   ├── clean/
 │   ├── output/
 │   └── db/
-├── notebooks/
-│   └── revenue_dashboard.ipynb
 ├── tests/
 │   └── test_manager.py
 └── logs/
