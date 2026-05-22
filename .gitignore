@@ -1,0 +1,16 @@
+.vs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+data/raw/*
+# Preserve empty data folders
+!data/
+!data/raw/
+!data/clean/
+!data/output/
+!data/db/
